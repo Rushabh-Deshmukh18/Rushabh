@@ -12,7 +12,7 @@
 
 
 
-- ⚽️ Hobbies: Sports (Basketball , Football), Playing videogames.
+- ⚽️ Hobbies: Sports (Basketball , Football), Playing PC Games.
 - :shipit: How to reach me:
 
    * 📍 Email : rushabhdeshmukh01@gmail.com
