@@ -6,9 +6,9 @@
 
 <h4> 👨🏻‍💻 About Me </h4>
 
-- 🌈 Post Graduate In MCA 2021 From P.R.Pote College Of Amaravati.
+🌈 Post Graduate In MCA 2021 From P.R.Pote College Of Amaravati.
 
-- 🌞 Bachelor Degree in  Bachlore Of Computer Applications from S.G.B.A.U.,Amravati.
+🌞 Bachelor Degree in BCA from S.G.B.A.U.,Amravati.
 
 
 
