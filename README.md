@@ -2,7 +2,7 @@
 <h5> 🍁 </h5>
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="2" />
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif">
 
 <h4> 👨🏻‍💻 About Me </h4>
 
