@@ -1,4 +1,4 @@
-<h1> Heyy I'm Rushabh  </h1>
+<h1> Hey I'm Rushabh  </h1>
 <h5> 🍁 </h5>
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="2" />
